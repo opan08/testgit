@@ -1,1 +1,2 @@
 It is a github test txt, I can learn how to git remote to my github.
+Creat a branch is quick.
